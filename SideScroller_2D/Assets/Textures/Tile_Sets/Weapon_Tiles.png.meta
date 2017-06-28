@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 34bbe0425b0b11441a69b0e675481692
+timeCreated: 1479369823
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Double Daggers
+    21300002: Dagger
+    21300004: Shortsword
+    21300006: Athen Aegis
+    21300008: Falrend Greatsword
+    21300010: Wyvern Twin Rapiers
+    21300012: Double Rapiers
+    21300014: Rapier
+    21300016: Flayer
+    21300018: Wooden Sword
+    21300020: Longsword
+    21300022: Malwyrn Greatsword
+    21300024: Greatsword
+    21300026: Laywyrn Swordaxe
+    21300028: Laywin Axe
+    21300030: Battle Axe
+    21300032: Dev_Silhouette_Battleaxe
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Double Daggers
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 16}
+        - {x: -16, y: 1}
+        - {x: -16, y: -12}
+        - {x: -12, y: -12}
+        - {x: -6, y: -9}
+        - {x: 9, y: 2}
+        - {x: 12, y: 11}
+        - {x: 12, y: 16}
+    - name: Dagger
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 1}
+        - {x: -16, y: -9}
+        - {x: -16, y: -15}
+        - {x: -15, y: -16}
+        - {x: -6, y: -16}
+        - {x: -2, y: -15}
+        - {x: 1, y: -5}
+        - {x: 1, y: 1}
+    - name: Shortsword
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 5}
+        - {x: -16, y: -2}
+        - {x: -16, y: -16}
+        - {x: -3, y: -16}
+        - {x: 5, y: -2}
+        - {x: 5, y: 5}
+    - name: Athen Aegis
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -10, y: 5}
+        - {x: -16, y: -6}
+        - {x: -16, y: -16}
+        - {x: -3, y: -16}
+        - {x: 16, y: 10}
+        - {x: 16, y: 16}
+    - name: Falrend Greatsword
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -15, y: -4}
+        - {x: -16, y: -7}
+        - {x: -16, y: -16}
+        - {x: -2, y: -16}
+        - {x: 16, y: 11}
+        - {x: 16, y: 16}
+    - name: Wyvern Twin Rapiers
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -16}
+        - {x: 4, y: -16}
+        - {x: 16, y: -6}
+        - {x: 16, y: 16}
+    - name: Double Rapiers
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -16}
+        - {x: 4, y: -16}
+        - {x: 16, y: -6}
+        - {x: 16, y: 16}
+    - name: Rapier
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 10}
+        - {x: 6, y: 10}
+        - {x: -16, y: -5}
+        - {x: -16, y: -16}
+        - {x: -4, y: -16}
+        - {x: 10, y: 1}
+        - {x: 10, y: 8}
+    - name: Flayer
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 9}
+        - {x: -16, y: -12}
+        - {x: -16, y: -16}
+        - {x: -12, y: -16}
+        - {x: 8, y: 4}
+        - {x: 8, y: 7}
+        - {x: 5, y: 10}
+    - name: Wooden Sword
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 7}
+        - {x: -16, y: -3}
+        - {x: -16, y: -16}
+        - {x: -4, y: -16}
+        - {x: 7, y: 3}
+        - {x: 7, y: 7}
+    - name: Longsword
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 10}
+        - {x: 3, y: 10}
+        - {x: -16, y: -1}
+        - {x: -16, y: -16}
+        - {x: -3, y: -16}
+        - {x: -3, y: -13}
+        - {x: 10, y: 4}
+    - name: Malwyrn Greatsword
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 16}
+        - {x: -16, y: 0}
+        - {x: -16, y: -16}
+        - {x: -3, y: -16}
+        - {x: -3, y: -13}
+        - {x: 16, y: 10}
+        - {x: 16, y: 16}
+    - name: Greatsword
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 16}
+        - {x: -16, y: 0}
+        - {x: -16, y: -16}
+        - {x: -3, y: -16}
+        - {x: -3, y: -13}
+        - {x: 16, y: 10}
+        - {x: 16, y: 16}
+    - name: Laywyrn Swordaxe
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -1}
+        - {x: -16, y: -6}
+        - {x: -16, y: -16}
+        - {x: 5, y: -16}
+        - {x: 16, y: -8}
+        - {x: 16, y: 16}
+        - {x: -6, y: 16}
+        - {x: -8, y: 15}
+    - name: Laywin Axe
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -14, y: 10}
+        - {x: -16, y: -5}
+        - {x: -16, y: -16}
+        - {x: -5, y: -16}
+        - {x: 16, y: -5}
+        - {x: 16, y: 16}
+    - name: Battle Axe
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -14, y: 10}
+        - {x: -16, y: -5}
+        - {x: -16, y: -16}
+        - {x: -5, y: -16}
+        - {x: 16, y: -5}
+        - {x: 16, y: 16}
+    - name: Dev_Silhouette_Battleaxe
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -14, y: 10}
+        - {x: -16, y: -5}
+        - {x: -16, y: -16}
+        - {x: -5, y: -16}
+        - {x: 16, y: -5}
+        - {x: 16, y: 16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
